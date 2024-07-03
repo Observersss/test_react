@@ -1,0 +1,7 @@
+.comment{
+    border: 1px solid teal;
+    border-radius: 16px;
+    margin: 12px;
+    padding: 13px;
+    max-width: 600px;
+}
